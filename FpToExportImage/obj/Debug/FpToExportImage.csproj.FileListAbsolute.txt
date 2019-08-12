@@ -1,0 +1,12 @@
+C:\Users\Lincoln\source\repos\FpToExportImage\FpToExportImage\obj\Debug\FpToExportImage.csprojAssemblyReference.cache
+C:\Users\Lincoln\source\repos\FpToExportImage\FpToExportImage\obj\Debug\FpToExportImage.Form1.resources
+C:\Users\Lincoln\source\repos\FpToExportImage\FpToExportImage\obj\Debug\FpToExportImage.Properties.Resources.resources
+C:\Users\Lincoln\source\repos\FpToExportImage\FpToExportImage\obj\Debug\FpToExportImage.csproj.GenerateResource.cache
+C:\Users\Lincoln\source\repos\FpToExportImage\FpToExportImage\obj\Debug\FpToExportImage.csproj.CoreCompileInputs.cache
+C:\Users\Lincoln\source\repos\FpToExportImage\FpToExportImage\bin\Debug\FpToExportImage.exe.config
+C:\Users\Lincoln\source\repos\FpToExportImage\FpToExportImage\bin\Debug\FpToExportImage.exe
+C:\Users\Lincoln\source\repos\FpToExportImage\FpToExportImage\bin\Debug\FpToExportImage.pdb
+C:\Users\Lincoln\source\repos\FpToExportImage\FpToExportImage\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Users\Lincoln\source\repos\FpToExportImage\FpToExportImage\obj\Debug\FpToExportImage.csproj.CopyComplete
+C:\Users\Lincoln\source\repos\FpToExportImage\FpToExportImage\obj\Debug\FpToExportImage.exe
+C:\Users\Lincoln\source\repos\FpToExportImage\FpToExportImage\obj\Debug\FpToExportImage.pdb
