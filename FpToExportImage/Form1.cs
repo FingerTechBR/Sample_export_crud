@@ -200,12 +200,8 @@ namespace FpToExportImage
                  bool result2;
 
             m_NBioAPI.GetTextFIRFromHandle(m_hNewFIR, out textencode, true);
-
             m_NBioAPI.VerifyMatch(textencode, textencode, out  result2, null);
-
             uint gui = m_NBioAPI.VerifyMatch(textencode, textencode, out result, null);
-
-
             Console.WriteLine("resultado " + result2);
 
 
